@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CustomGroupsTableViewCell: UITableViewCell {
+final class CustomGroupsTableViewCell: UITableViewCell {
 
     private let groupPhoto: UIImageView = {
         let photo = UIImageView()

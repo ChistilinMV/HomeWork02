@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CustomPhotoViewCell: UICollectionViewCell {
+final class CustomPhotoViewCell: UICollectionViewCell {
     var tap: ((UIImage) -> Void)?
     private var imageView = UIImageView(image: UIImage(systemName: "person"))
     

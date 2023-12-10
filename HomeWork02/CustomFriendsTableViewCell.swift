@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CustomFriendsTableViewCell: UITableViewCell {
+final class CustomFriendsTableViewCell: UITableViewCell {
     
     private let friendPhoto: UIImageView = {
         let photo = UIImageView()
