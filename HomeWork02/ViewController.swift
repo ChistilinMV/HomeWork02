@@ -4,6 +4,7 @@
 //
 //  Created by Max on 26.11.2023.
 //
+// Some dummy comment for git homework
 
 import UIKit
 
